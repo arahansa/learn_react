@@ -7,7 +7,7 @@
 <body>
 <a href="/react_main.jsp">메인으로</a>
 
-<h1>spinbox init</h1><br>
+<h1>spinbox CLASS</h1><br>
 
 <div id="example"></div>
 
@@ -16,8 +16,6 @@
 <script src="http://fb.me/react-0.12.0.js"></script>
 <!-- In-browser JSX transformer, remove when pre-compiling JSX. -->
 <script src="http://fb.me/JSXTransformer-0.12.0.js"></script>
-<script src="/js/spinbox3.react.js" type="text/jsx"></script>
-
-
+<script src="/js/spinbox2_class.react.js" type="text/jsx"></script>
 </body>
 </html>
