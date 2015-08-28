@@ -18,7 +18,7 @@
 <script src="http://fb.me/react-0.12.0.js"></script>
 <!-- In-browser JSX transformer, remove when pre-compiling JSX. -->
 <script src="http://fb.me/JSXTransformer-0.12.0.js"></script>
-<script src="/js/spinbox05_event.react.js" type="text/jsx"></script>
+<script src="/js/react/spinbox05_event.react.js" type="text/jsx"></script>
 
 
 

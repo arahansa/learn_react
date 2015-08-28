@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<form class="form-horizontal" ng-controller="replyWriterController" ng-submit="submit()">
+	
+	닉넴 : <input type="text" name="nick" ng-model="nick"><br>
+	<textarea name="message" ng-model="message" cols="" rows="" class="textarea_gray" style="width: 780px; height: 48px;"></textarea>
+	<br>
+	<input type="submit" class="btn_purple" value="확인" style="width: 88px; height: 70px;" /> 
+	<span lass="reple_checkbox">
+		<label class="form_checkbox">
+		<input type="checkbox" /> 
+		<span>비공개</span></label>
+	</span>
+</form>
