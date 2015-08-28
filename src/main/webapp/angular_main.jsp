@@ -5,6 +5,7 @@
 <title> Happy WOrld </title>
 </head>
 <body>
-앵귤러 메인 페이지 
+앵귤러 메인 페이지 이동<br>
+<a href="/angular/replyTest.jsp">이동!</a>
 </body>
 </html>
