@@ -15,6 +15,9 @@ http://wit.nts-corp.com/2014/11/19/2584 이 사이트의 강좌 <br>
 <a href="/react/spinbox04_initState.jsp" target="_blank">초기값 설정</a> <br>
 <a href="/react/spinbox05_event.jsp" target="_blank">이벤트 바인딩</a> <br>
 
+<br>
+https://facebook.github.io/react/docs/getting-started.html 의 강좌 <br>
+
 
 </body>
 </html>
