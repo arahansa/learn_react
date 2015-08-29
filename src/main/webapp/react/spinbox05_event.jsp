@@ -15,7 +15,7 @@
 이벤트 바인딩을 해주겠습니다. <Br>
 <div id="example"></div>
 
-<pre class="language-javascript"><code>
+<pre class="language-jsx"><code>
   var Spinbox = React.createClass({
 	getInitialState : function(){
         return {

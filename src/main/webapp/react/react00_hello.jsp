@@ -19,7 +19,7 @@
  </code></pre>
  <br>
  javascript에서의 모습
- <pre class="language-javascript"><code>
+ <pre class="language-jsx"><code>
   React.render(
     &lt;h1&gt;Hello, world!&lt;/h1&gt;,
     document.getElementById('example')

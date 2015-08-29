@@ -19,7 +19,7 @@ createClass로 Spinbox 라는 클래스를 만들어서 재활용을 합니다. 
   &lt;div id=&quot;example&quot;&gt;&lt;/div&gt;
  </code></pre>
  
- <pre class="language-javascript"><code>
+ <pre class="language-jsx"><code>
  var Spinbox = React.createClass({
     render: function() {
         return (

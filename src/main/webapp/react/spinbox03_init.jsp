@@ -21,7 +21,7 @@
   &lt;div id=&quot;example&quot;&gt;&lt;/div&gt;
  </code></pre>
  
- <pre class="language-javascript"><code>
+ <pre class="language-jsx"><code>
   var Spinbox = React.createClass({
     render: function() {
         return (

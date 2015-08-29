@@ -19,7 +19,7 @@ example 아이디를 찾아서 렌더링 시킨 내용을 삽입시킵니다.
   &lt;div id=&quot;example&quot;&gt;&lt;/div&gt;
  </code></pre>
  
- <pre class="language-javascript"><code>
+ <pre class="language-jsx"><code>
   React.render(
     &lt;div&gt;
         &lt;input type=&quot;text&quot; value=&quot;&quot; /&gt;
